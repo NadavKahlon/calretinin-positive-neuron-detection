@@ -2,11 +2,7 @@
 
 ## History
 
-This is a project my friend Amir Deitch and I worked on in 2022, in collaberation with neuroscientist Doctor Paz Kelmer from Semmelweis University in Budapest. The project was submitted as part of a data science workshop Amir and I took in Spring 2022 at OUI, and graded 100 / 100. The project was first uploaded to GitHub in July 2024.
-
-## Contents
-
-The project is thoroughly described in the attached Jupyter notebook. It is also provided in a compiled to an HTML document.
+This is a project my friend Amir Deitch and I worked on in 2022, in collaberation with neuroscientist Doctor Paz Kelmer from Semmelweis University in Budapest. The project was submitted as part of a data science workshop Amir and I took in Spring 2022 at OUI, and graded 100 / 100. The project was first uploaded to GitHub in July 2024. The entirety of our work is detailed in the associated Jupyter notebook, `calretinin-positive-neuron-detection.ipynb`.
 
 ## Agenda
 
